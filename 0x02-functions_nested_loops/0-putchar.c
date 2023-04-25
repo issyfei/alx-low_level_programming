@@ -1,10 +1,8 @@
 #include "main.h"
 	/**
-	 * main - Entry point 
-	 * Description: 'prints _putchar to stdout'
-	 * Return: always 0
+	 * main - c program that prints putchar function.
+	 * Return: 0 if program executes successfully
 	 */
-
 
 	int main(void)
 	{
