@@ -1,10 +1,11 @@
 #include "main.h"
-	/**
-	 * main - c program that prints putchar function.
-	 * Return: 0 if program executes successfully
+        /**
+	 * main -  prints _putchar
+	 * is written by isioma
+	 * Return: 0
 	 */
-
-	int main(void)
+	
+        int main(void)
 	{
 	_putchar('_');
 	_putchar('p');
